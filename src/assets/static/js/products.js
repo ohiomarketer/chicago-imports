@@ -36,7 +36,7 @@ import product36 from '../img/36.jpg';
 const products = [
     {
         title: 'Campera V1',
-        price: 150000,
+        price: 144000,
         category: 'Camperas',
         image: product3,
         id: '_id12das'
@@ -92,7 +92,7 @@ const products = [
     },
     {
         title: 'Campera V3',
-        price: 90000,
+        price: 100000,
         category: 'Camperas',
         image: product11,
         id: '_id22das'
@@ -134,14 +134,14 @@ const products = [
     },
     {
         title: 'Sneaker V4',
-        price: 127000,
+        price: 100000,
         category: 'Sneakers',
         image: product17,
         id: '_id28das'
     },
     {
         title: 'Morral V2',
-        price: 65000,
+        price: 80000,
         category: 'Morrales',
         image: product18,
         id: '_id29das'
@@ -155,14 +155,14 @@ const products = [
     },
     {
         title: 'Campera V5',
-        price: 100000,
+        price: 115000,
         category: 'Camperas',
         image: product20,
         id: '_id31das'
     },
     {
         title: 'Morral V3',
-        price: 58000,
+        price: 90000,
         category: 'Morrales',
         image: product21,
         id: '_id32das'
@@ -204,7 +204,7 @@ const products = [
     },
     {
         title: 'Campera V8',
-        price: 100000,
+        price: 120000,
         category: 'Camperas',
         image: product27,
         id: '_id38das'
@@ -225,8 +225,8 @@ const products = [
     },
     {
         title: 'Campera V9',
-        price: 127000,
-        category: 'Camperas',
+        price: 100000,
+        category: 'Sneakers',
         image: product30,
         id: '_id41das'
     },
