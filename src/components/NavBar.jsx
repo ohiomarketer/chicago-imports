@@ -90,13 +90,13 @@ export const NavBar = () => {
             </li>
 
             <li className="navbar-item" onClick={() => handleNavClose()}>
-              <a href="https://instagram.com/cousinimports_/" target="_blank" className="navbar-link">
+              <a href="https://instagram.com/chicagoimports_/" target="_blank" className="navbar-link">
                 Nosotros
               </a>
             </li>
 
             <li className="navbar-item" onClick={() => handleNavClose()}>
-              <a href='https://instagram.com/cousinimports_/' target="_blank" className="navbar-link">
+              <a href='https://instagram.com/chicagoimports_/' target="_blank" className="navbar-link">
                 Instagram
               </a>
             </li>
